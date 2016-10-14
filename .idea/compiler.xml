@@ -18,5 +18,10 @@
         <processorPath useClasspath="true" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="grails3-mongodb_integrationTest" target="1.8" />
+      <module name="grails3-mongodb_main" target="1.8" />
+      <module name="grails3-mongodb_test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

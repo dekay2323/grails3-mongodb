@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/grails3-mongodb.iml" filepath="$PROJECT_DIR$/grails3-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grails3-mongodb.iml" filepath="$PROJECT_DIR$/.idea/modules/grails3-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grails3-mongodb_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/grails3-mongodb_integrationTest.iml" group="grails3-mongodb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grails3-mongodb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/grails3-mongodb_main.iml" group="grails3-mongodb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grails3-mongodb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/grails3-mongodb_test.iml" group="grails3-mongodb" />
     </modules>
   </component>
 </project>
