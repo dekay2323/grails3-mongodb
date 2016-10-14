@@ -1,9 +1,9 @@
-  dataSource:
-        pooled: true
-        jmxExport: true
-        host: 'localhost'
-        port: 27017
-        databaseName: 'pro3'
+dataSource:
+  pooled: true
+  jmxExport: true
+  host: 'localhost'
+  port: 27017
+  databaseName: 'pro3'
 
 ---
 grails:
